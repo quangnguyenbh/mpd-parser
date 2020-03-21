@@ -53,7 +53,7 @@
     "test/"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.5.5",
+    "@babel/runtime": "^7.9.2",
     "global": "^4.3.2",
     "@videojs/vhs-utils": "^1.1.0",
     "xmldom": "^0.1.27"
